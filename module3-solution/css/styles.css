@@ -44,11 +44,16 @@ body {
 #menu-tiles {
     width: 100%;
     padding-left: 5px; 
-    padding-right: 5px;   
+    padding-right: 5px;
+    padding-bottom: 10px;   
+}
+
+#menu-tiles > div {
+    margin-bottom: 30px;
 }
 .menu-tile{
     background-color: white;
-    color: black;
+    color: black;    
    
 }
 .menu-tile > div {
